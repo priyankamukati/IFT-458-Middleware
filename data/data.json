@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "customerName": "Fred Wrenn",
+    "phoneNumber": "(206) 686-1350",
+    "address": "400 N Normandie Ave, San Francisco, CA 90010",
+    "loanAmount": "1000",
+    "interest": "6",
+    "loanTermYears": "5",
+    "loanType": "Student Loan",
+    "description": "Student loan for Fred Wrenn"
+  },
+  {
+    "id": 1,
+    "customerName": "James Mary",
+    "phoneNumber": "(206) 686-1351",
+    "address": "400 N Normandie Ave, San Diego, CA 90010",
+    "loanAmount": "2000",
+    "interest": "3",
+    "loanTermYears": "4",
+    "loanType": "Mortgage Loan",
+    "description": "Mortgage loan for James Mary"
+  },
+  {
+    "id": 2,
+    "customerName": "John Jennifer",
+    "phoneNumber": "(206) 686-1352",
+    "address": "400 N Normandie Ave, Boston, CA 90010",
+    "loanAmount": "3000",
+    "interest": "7",
+    "loanTermYears": "6",
+    "loanType": "Personal Loan",
+    "description": "Personal loan for John Jennifer"
+  },
+  {
+    "id": 3,
+    "customerName": "Robert Patricia",
+    "phoneNumber": "(206) 686-1353",
+    "address": "400 N Normandie Ave, New York, CA 90010",
+    "loanAmount": "6000",
+    "interest": "2",
+    "loanTermYears": "8",
+    "loanType": "Mortgage Loans",
+    "description": "Mortgage loan for Robert Patricia"
+  },
+  {
+    "id": 4,
+    "customerName": "Daniel Nancy",
+    "phoneNumber": "(206) 686-1354",
+    "address": "400 N Normandie Ave, Chicago, CA 90010",
+    "loanAmount": "8000",
+    "interest": "9",
+    "loanTermYears": "2",
+    "loanType": "Auto Loan",
+    "description": "Auto loan for Daniel Nancy"
+  }
+]
